@@ -16,7 +16,7 @@
 </head>
 <body>
   <header>
-    <h1>Your Name</h1>
+    <h1>Caglar Suruk</h1>
     <nav>
       <a href="#home">Home</a>
       <a href="#about">About</a>
@@ -45,11 +45,10 @@
   </section>
   <section id="contact">
     <h2>Contact Me</h2>
-    <p>Email: your.email@example.com</p>
-    <p>LinkedIn: <a href="#">linkedin.com/in/yourname</a></p>
+    <p>Email: caglarsuruk@hotmail.co.uk</p>
   </section>
   <footer>
-    <p>&copy; 2025 Your Name. All rights reserved.</p>
+    <p>&copy; 2025 Caglar Suruk. All rights reserved.</p>
   </footer>
 </body>
 </html>
